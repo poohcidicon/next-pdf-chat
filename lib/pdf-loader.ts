@@ -45,8 +45,9 @@ export async function getChunkedDocsFromPDF(pdfSource: PDFSource) {
 
     // Split into chunks
     const textSplitter = new RecursiveCharacterTextSplitter({
-      chunkSize: 1000,
-      chunkOverlap: 200,
+      chunkSize: 600, // ลดจาก 1000 → ป้องกันตัดประโยคไทยขาด
+      chunkOverlap: 150, // เพิ่มจาก 200 → รักษาบริบทขั้นตอน
+      separators: ["\n\n", "ขั้นตอนที่", "1.", "2.", "(1)", "(2)"], // ใช้ตัวแบ่งตามลำดับขั้น
     });
 
     const chunkedDocs = await textSplitter.splitDocuments(docs);

@@ -40,7 +40,7 @@ export const initialMessages: Message[] = [
     role: "assistant",
     id: "0",
     content:
-      "Hi! Customer assistant From Phuket. Please Ask anything about Phuket and here to help",
+      "คุณลูกค้าที่น่ารัก ยินดีต้อนรับสู่ระบบ ICON Framework บริการช่วยเหลือลูกค้า มีอะไรให้ทีมเราช่วยเหลือหรือคะ?",
   },
 ];
 
