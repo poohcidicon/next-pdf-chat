@@ -1,0 +1,6 @@
+{
+  "timestamp": "2025-01-24T07:29:06.923Z",
+  "userPrompt": "test",
+  "conversationHistory": "Assistant: คุณลูกค้าที่น่ารัก ยินดีต้อนรับสู่ระบบ ICON Framework บริการช่วยเหลือลูกค้า มีอะไรให้ทีมเราช่วยเหลือหรือคะ?",
+  "context": "20 | P a g e \n \nfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff\nfffffffffffffff\n\n15 | P a g e \n \nffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff\n\n10 | P a g e \n \nffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff\n\n10 | P a g e \n \nffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff\n\n6 | P a g e \n \n2."
+}
